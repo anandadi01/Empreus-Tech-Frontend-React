@@ -1,0 +1,40 @@
+/* frontend/src/styles.css */
+.home {
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .product-card {
+    border: 5px solid #ddd;
+    padding: 20px;
+    margin: 15px;
+    max-width: 200px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+
+  .styling{
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            font-size: 30px;
+            color: green;
+            border: 4px dashed green;
+            padding: 5px;
+            width: 400px;
+
+
+            border: 2px solid red;
+            margin: 10px 20px;
+            width: 100px;
+
+        
+  }
